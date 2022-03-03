@@ -1,0 +1,6 @@
+hotspotDB:addHotspot("Elwynn Forest 35 - 37", "High Elf", 35, 37, -9361.12, 242.58, 63.73);
+hotspotDB:addHotspot("Elwynn Forest 35 - 37", "High Elf", 35, 37, -9677.7, 210.22, 51.04);
+hotspotDB:addHotspot("Tkashi Ruins 35 - 37", "High Elf", 35, 37, -11874.59, 28.47, 25.55);
+hotspotDB:addHotspot("Tkashi Ruins 35 - 37", "High Elf", 35, 37, -11885.19, 16.24, 22.72);
+hotspotDB:addHotspot("Tkashi Ruins 35 - 37", "High Elf", 35, 37, -11810.22, 134.92, 16.15);
+hotspotDB:addHotspot("Stranglethorn Vale 35 - 37", "High Elf", 35, 37, -11648.62, 217.58, 40.44);

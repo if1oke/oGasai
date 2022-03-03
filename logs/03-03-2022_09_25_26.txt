@@ -1,0 +1,3 @@
+hotspotDB:addHotspot("Stranglethorn Vale 35 - 37", "High Elf", 35, 37, -11961.44, 11.28, 17.79);
+hotspotDB:addHotspot("Stranglethorn Vale 35 - 37", "High Elf", 35, 37, -11847.48, 492.4, 48.05);
+hotspotDB:addHotspot("Stranglethorn Vale 35 - 37", "High Elf", 35, 37, -12044.55, 87.9, -0.64);

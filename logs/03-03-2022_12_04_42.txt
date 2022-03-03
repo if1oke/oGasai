@@ -1,0 +1,7 @@
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9319.35, 133.29, 64.41);
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9319.35, 133.29, 64.41);
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9479.14, 231.08, 56.95);
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9764.68, -140.94, 32.41);
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9764.68, -140.94, 32.41);
+hotspotDB:addHotspot("Stranglethorn Vale 36 - 38", "High Elf", 36, 38, -12793.25, -377.64, 11.4);
+hotspotDB:addHotspot("Stranglethorn Vale 36 - 38", "High Elf", 36, 38, -12786.08, -377.08, 11.4);

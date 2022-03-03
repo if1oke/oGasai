@@ -1,0 +1,5 @@
+hotspotDB:addHotspot("Nesingwary's Expedition 34 - 36", "High Elf", 34, 36, -11667, 9.34, 16.4);
+hotspotDB:addHotspot("Stranglethorn Vale 34 - 36", "High Elf", 34, 36, -11624.3, -340.82, 27.78);
+hotspotDB:addHotspot("Stranglethorn Vale 34 - 36", "High Elf", 34, 36, -11602.96, -360.43, 23.43);
+hotspotDB:addHotspot("Stranglethorn Vale 34 - 36", "High Elf", 34, 36, -11615.06, -383.83, 17.14);
+hotspotDB:addHotspot("Stranglethorn Vale 34 - 36", "High Elf", 34, 36, -11618.39, -377.66, 17.11);

@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("Nesingwary's Expedition 34 - 36", "High Elf", 34, 36, -11666.98, 9.34, 16.4);

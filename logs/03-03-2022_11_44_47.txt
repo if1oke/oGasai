@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9309.74, 139.09, 65.37);

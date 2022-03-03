@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("Venture Co. Base Camp 34 - 36", "High Elf", 34, 36, -12034.8, -714.07, 14.62);

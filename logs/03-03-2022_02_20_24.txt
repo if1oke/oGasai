@@ -1,0 +1,3 @@
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9737.72, -93.15, 33.67);
+hotspotDB:addHotspot("Elwynn Forest 36 - 38", "High Elf", 36, 38, -9616.58, -548.05, 54.35);
+hotspotDB:addHotspot("Tower of Azora 36 - 38", "High Elf", 36, 38, -9520.42, -824.78, 59.16);
